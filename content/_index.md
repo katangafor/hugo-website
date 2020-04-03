@@ -1,6 +1,6 @@
 ---
 title: "You wont' sleep through this one"
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/sunrise.jpg"
 description: "The last theme you'll ever need. Maybe."
 ---
 
